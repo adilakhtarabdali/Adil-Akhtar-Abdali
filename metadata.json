@@ -1,0 +1,7 @@
+{
+  "name": "AZAD Restaurant Ordering App",
+  "description": "A mobile-first ordering app for AZAD Islamic Restaurant with an Android-style interface. Customers can easily place orders for takeaway, delivery, or dine-in.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
